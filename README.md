@@ -1,2 +1,2 @@
 # firstRepo
-The first repository for FGU123
+The first repository for FGU123.
