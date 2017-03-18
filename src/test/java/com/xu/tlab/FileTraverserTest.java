@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FilenameFilter;
 import java.util.List;
 
-import com.xlab.tlab.impl.FileTraverser;
+import com.xu.tlab.impl.FileTraverser;
 
 /**
  * The class tests the methods of FileTraverser
